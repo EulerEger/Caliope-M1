@@ -6,7 +6,7 @@ plot(z,C,'b-')
 
 function dC=odediff(z,C)
 
-%Donée
+%DonÃ©e
 D=1.2e-9; k=1e-3;
 dC=ones(2,1);
 
